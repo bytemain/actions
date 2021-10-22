@@ -17,3 +17,4 @@ jobs:
           YUQUE_TOKEN: ${{ secrets.YUQUE_TOKEN }}
           YUQUE_NAMESPACE: artin/personal
           YUQUE_DOC_ID: 55766500
+          TIMEZONE: Asia/Shanghai
